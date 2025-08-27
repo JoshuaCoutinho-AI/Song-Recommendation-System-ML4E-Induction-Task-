@@ -38,8 +38,8 @@ Here are some previews of the app:
 ### 🎵 Input Example
 ![Song Input Screenshot](screenshotsinput.png)
 
-### 📊 Recommendation Results
-![Song Recommendation Screenshot](screenshotsresults.png)
+### 🎥 Demo GIF
+![App Demo](demo.gif)
 
 ---
 
@@ -54,3 +54,4 @@ You can watch a short demo here:
 ```bash
 pip install streamlit pandas scikit-learn
 streamlit run app.py
+
